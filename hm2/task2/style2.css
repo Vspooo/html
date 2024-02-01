@@ -1,0 +1,17 @@
+
+.wrapper{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.box:hover{
+    border-radius: 50%;
+    background-color: greenyellow;
+    transition: 1s;
+}

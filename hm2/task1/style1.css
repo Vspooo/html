@@ -1,0 +1,25 @@
+
+.dancing-script-font {
+    font-family: 'Dancing Script', cursive;
+}
+
+.fjalla-one-font {
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.indie-flower-font {
+    font-family: 'Indie Flower', cursive;
+}
+
+.rubik-pixels-font {
+    font-family: 'Rubik Pixels', system-ui;
+}
+
+.sedgwick-ave-display-font {
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: space-evenly;
+}
