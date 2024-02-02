@@ -1,0 +1,36 @@
+
+.wrapper {
+    margin: 20px 30px;
+}
+
+.player {
+}
+
+.list-of-cards {
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    width: 50px;
+    height: 50px;
+    background-color: #bdc4cd;
+    border-radius: 2px;
+    transition: 0.7s;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card:hover {
+    scale: 1.55;
+    transition: 0.5s;
+    box-shadow: 1px 1px 8px black;
+}
+
+.players-name {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
