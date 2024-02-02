@@ -1,0 +1,46 @@
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.widgets {
+    margin: 20px 20px;
+    width: 50%;
+    height: 200px;
+    background-color: cadetblue;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.widget {
+    height: 200px;
+    width: 200px;
+    background-color: cornflowerblue;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.set-of-widgets {
+    margin: 20px 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+
+}
+
+.contact {
+    margin: 20px 20px;
+    width: 50%;
+    height: 200px;
+    background-color: cadetblue;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
