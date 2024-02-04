@@ -1,0 +1,44 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.font-quantico {
+    font-family: 'Quattrocento Sans', sans-serif;
+    font-size: 20px;
+}
+
+img {
+    width: 70px;
+}
+
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.box {
+    margin: 10px;
+    width: 100px;
+    height: 150px;
+    background-color: #d9d9d9;
+    border: 0.2px black solid;
+    border-radius: 20px;
+    transition: 0.5s;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.box:hover {
+    cursor: pointer;
+    transition: 0.7s;
+    scale: 1.1;
+    box-shadow: 1px 1px 8px black
+}

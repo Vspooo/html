@@ -1,0 +1,35 @@
+
+
+body{
+}
+
+.protestStrike-font{
+    font-family: 'Protest Strike', sans-serif;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+.box{
+    width: 500px;
+    height: 250px;
+    background-color: cornflowerblue;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 10px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.button{
+    width: 50%;
+    background-color: black;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+}
+
