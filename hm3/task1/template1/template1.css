@@ -1,0 +1,62 @@
+
+body{
+    margin-top: 3vw;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+header{
+    display: flex;
+    width: 75vw;
+    height: 25vh;
+    background-color: #D9D9D9;
+    font-family: 'Inter', sans-serif;
+    justify-content: center;
+    align-items: center;
+}
+
+main{
+    display: flex;
+}
+
+article{
+    width: 15vw;
+    height: 40vh;
+    background-color: #817C7C;
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section{
+    width: 45vw;
+    height: 20vh;
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+aside{
+    width: 15vw;
+    height: 40vh;
+    background-color: #B7AEAE;
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+footer{
+    width: 75vw;
+    height: 25vh;
+    background-color: #BDBDBD;
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

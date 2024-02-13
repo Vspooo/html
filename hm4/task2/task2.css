@@ -1,0 +1,76 @@
+
+body{
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+main{
+    width: 25vw;
+    border: 2px solid #BDBDBD;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+main>h5{
+    font-family: 'Pacifico', cursive;
+    font-size: 40px;
+}
+
+input{
+    margin: 10px;
+}
+
+#username{
+    width: 15vw;
+    height: 5vh;
+    border: 1px solid #BDBDBD;
+    background-color: #efefef;
+    border-radius: 5px;
+}
+
+#userpassword{
+    width: 15vw;
+    height: 5vh;
+    border: 1px solid #BDBDBD;
+    background-color: #efefef;
+    border-radius: 5px;
+}
+
+#loginbutton{
+    width: 16vw;
+    height: 5vh;
+    border-radius: 15px;
+    background-color: #9ad2fc;
+    border: none;
+    color: white;
+    font-size: 20px;
+}
+
+.other-login-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+
+.other-login-links>a{
+    text-decoration: none;
+    color: #385185;
+}
+
+section{
+    margin-top: 15px;
+    width: 25vw;
+    border: 2px solid #BDBDBD;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section>a{
+    margin-left: 5px;
+    text-decoration: none;
+    color: #47afff;
+}

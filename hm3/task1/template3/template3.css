@@ -1,0 +1,43 @@
+
+
+header{
+    width: 35vw;
+    height: 15vh;
+    background-color: #9B6F6F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Inter', sans-serif;
+}
+
+aside{
+    width: 9vw;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Inter', sans-serif;
+}
+
+section{
+    width: 13vw;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Inter', sans-serif;
+}
+
+footer{
+    width: 35vw;
+    height: 15vh;
+    background-color: #524B4B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Inter', sans-serif;
+}
+
+.wrap{
+    display: flex;
+}
